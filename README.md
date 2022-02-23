@@ -2,7 +2,7 @@
 <!------>
 <!--       -->
 <h1 align="center">
-    <img src="/assets/04.gif" width="30" height="30">
+    <img src="04.gif" width="30" height="30">
     Hi, I'm Ritwik Raj
 </h1>
 
@@ -23,13 +23,13 @@
         <img align="center" src="/icons/twitter.svg" alt="ShreyanshuShub1" height="30" width="40" />
     </a> -->
     <a href="https://linkedin.com/in/rajritwik/" target="blank">
-        <img align="center" src="/icons/linked-in-alt.svg" alt="rajritwik" height="30" width="40" />
+        <img align="center" src="/linked-in-alt.svg" alt="rajritwik" height="30" width="40" />
     </a>
     <a href="https://instagram.com/ritwik5302" target="blank">
-        <img align="center" src="/icons/instagram.svg" alt="ritwik5302" height="30" width="40" />
+        <img align="center" src="/instagram.svg" alt="ritwik5302" height="30" width="40" />
     </a>
     <a href="https://www.hackerrank.com/ritwikraj68" target="blank">
-        <img align="center" src="/icons/hackerrank.svg" alt="ritwikraj68" height="30" width="40" />
+        <img align="center" src="/hackerrank.svg" alt="ritwikraj68" height="30" width="40" />
     </a>
    <!-- <a href="https://www.leetcode.com/sShubham" target="blank">
         <img align="center" src="/icons/leet-code.svg" alt="sShubham" height="30" width="40" />
