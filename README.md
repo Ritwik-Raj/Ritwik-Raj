@@ -36,10 +36,10 @@
     </a> 
     <a href="https://auth.geeksforgeeks.org/user/shreyanshushubham" target="blank">
         <img align="center" src="/icons/geeks-for-geeks.svg" alt="shreyanshushubham" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/arcadesArena#1981" target="blank">
-        <img align="center" src="/icons/discord.svg" alt="arcadesArena#1981" height="30" width="40" />
     </a> -->
+    <a href="https://discord.gg/Ritwik#4145" target="blank">
+        <img align="center" src="discord.svg" alt="Ritwik#4145" height="30" width="40" />
+    </a> 
 </p>
 <h3 align="left">
     Trophies!!
