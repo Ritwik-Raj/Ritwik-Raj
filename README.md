@@ -19,9 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <!-- <a href="https://twitter.com/ShreyanshuShub1" target="blank">
-        <img align="center" src="/icons/twitter.svg" alt="ShreyanshuShub1" height="30" width="40" />
-    </a> -->
     <a href="https://linkedin.com/in/rajritwik/" target="blank">
         <img align="center" src="/linked-in-alt.svg" alt="rajritwik" height="30" width="40" />
     </a>
@@ -32,11 +29,8 @@
         <img align="center" src="/hackerrank.svg" alt="ritwikraj68" height="30" width="40" />
     </a>
    <a href="https://leetcode.com/Ritwik_Raj/" target="blank">
-        <img align="center" src="/leetcode.svg" alt="sShubham" height="30" width="40" />
+        <img align="center" src="/leetcode1.svg" alt="Ritwik_Raj" height="30" width="40" />
     </a> 
-    <!-- <a href="https://auth.geeksforgeeks.org/user/shreyanshushubham" target="blank">
-        <img align="center" src="/icons/geeks-for-geeks.svg" alt="shreyanshushubham" height="30" width="40" />
-    </a> -->
     <a href="https://discord.gg/Ritwik#4145" target="blank">
         <img align="center" src="discord.svg" alt="Ritwik#4145" height="30" width="40" />
     </a> 
