@@ -31,10 +31,10 @@
     <a href="https://www.hackerrank.com/ritwikraj68" target="blank">
         <img align="center" src="/hackerrank.svg" alt="ritwikraj68" height="30" width="40" />
     </a>
-   <!-- <a href="https://www.leetcode.com/sShubham" target="blank">
-        <img align="center" src="/icons/leet-code.svg" alt="sShubham" height="30" width="40" />
+   <a href="https://leetcode.com/Ritwik_Raj/" target="blank">
+        <img align="center" src="/leetcode.svg" alt="sShubham" height="30" width="40" />
     </a> 
-    <a href="https://auth.geeksforgeeks.org/user/shreyanshushubham" target="blank">
+    <!-- <a href="https://auth.geeksforgeeks.org/user/shreyanshushubham" target="blank">
         <img align="center" src="/icons/geeks-for-geeks.svg" alt="shreyanshushubham" height="30" width="40" />
     </a> -->
     <a href="https://discord.gg/Ritwik#4145" target="blank">
